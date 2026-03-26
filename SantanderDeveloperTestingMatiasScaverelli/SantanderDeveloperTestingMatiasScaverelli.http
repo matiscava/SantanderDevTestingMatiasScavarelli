@@ -1,0 +1,6 @@
+@SantanderDeveloperTestingMatiasScaverelli_HostAddress = http://localhost:5094
+
+GET {{SantanderDeveloperTestingMatiasScaverelli_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
